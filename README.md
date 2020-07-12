@@ -34,6 +34,7 @@ I found some interesting information during the analysis of data sets and I woul
   
   * Established a machine learning model to predict the rental price for both cities.
   
+  
   * Used the feature importance of the trained model and checked if they make any sense.
   
   * Listed all the important amenities to get a better feeling on how host can make more money by providing better services to meet customers’ need.
