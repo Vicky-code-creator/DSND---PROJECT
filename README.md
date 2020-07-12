@@ -6,7 +6,7 @@ you can find places to crash on your backpacking trip or you can find a place to
 to rent out extra space in your own home, you can host through Airbnb and make money for allowing a guest to stay the 
 night.
 
-# Project Overview:
+# [Project Overview:](https://vicky-code-creator.github.io/Data-Science-Portfolio/)
 
 Based on Standard Process of Data Mining, the Boston and Seatle Airbnb datasets were collected and analysed. 
 
@@ -18,17 +18,18 @@ Three bisinuess questions were asked and answered:
 
   * What are the top amenities people needs most?
   
-# File Descriptions:
+# [File Descriptions:](https://vicky-code-creator.github.io/Data-Science-Portfolio/)
   
   * A Descriptive Jupyter Notebook
   
   * Two datasets: Detailed Listings data for Boston and Seattle which were collected. Dataset Link: http://insideairbnb.com/get-the-data.html
 
-# Analysis:
+# [Analysis:](https://vicky-code-creator.github.io/Data-Science-Portfolio/)
 
 I found some interesting information during the analysis of data sets and I would be sharing them through this project.
 
-# Approach:
+
+# [Approach:](https://vicky-code-creator.github.io/Data-Science-Portfolio/)
 
   * Compared the Boston and Seattle Airbnb dataset.
   
@@ -38,3 +39,4 @@ I found some interesting information during the analysis of data sets and I woul
   * Used the feature importance of the trained model and checked if they make any sense.
   
   * Listed all the important amenities to get a better feeling on how host can make more money by providing better services to meet customers’ need.
+
