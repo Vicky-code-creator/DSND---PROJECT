@@ -6,7 +6,7 @@ you can find places to crash on your backpacking trip or you can find a place to
 to rent out extra space in your own home, you can host through Airbnb and make money for allowing a guest to stay the 
 night.
 
-()(https://github.com/Vicky-code-creator/Vicky_Portfolio/blob/master/Images)
+()(airbnblogo.jpg)
 
 # [Project Overview:](https://vicky-code-creator.github.io/Data-Science-Portfolio/)
 
