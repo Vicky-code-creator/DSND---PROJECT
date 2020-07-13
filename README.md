@@ -1,4 +1,4 @@
-# [Project 1: Analysis of AirBnB data in Seattle and Boston]
+# [Project 1: Analysis of AirBnB data in Seattle and Boston]https://vicky-code-creator.github.io/Vicky_Portfolio/
 
 Based on Industry Standard Process of Data Mining, the Boston and Seatle Airbnb datasets were collected and analysed. 
 
