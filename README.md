@@ -10,5 +10,5 @@ Three bisinuess questions were asked and answered:
 
  * What are the top amenities people needs most?
 
-
+[](Images/logo.jpg)
 
